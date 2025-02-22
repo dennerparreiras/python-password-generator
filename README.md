@@ -92,7 +92,6 @@ python-password-generator/
 │
 ├── password_generator.py    # Main application file
 ├── build.py                # Script to build executable
-├── create_icon.py          # Icon generation script
 ├── password_icon.ico       # Application icon
 ├── version.txt            # Version information
 ├── requirements.txt       # Project dependencies
